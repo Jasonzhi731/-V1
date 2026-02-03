@@ -1,6 +1,5 @@
 # -V1
 資產管理
-[資產管理.html](https://github.com/user-attachments/files/25029636/default.html)
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
